@@ -95,7 +95,7 @@ export default function Login() {
           className="justify-center items-center flex gap-2 w-full border py-2 rounded hover:bg-gray-50"
         >
          <span className=" "><FcGoogle /></span> Continue with Google
-        </button>
+        </button>.....
       </form>
     </div>
   );

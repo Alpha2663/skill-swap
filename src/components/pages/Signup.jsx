@@ -96,7 +96,7 @@ export default function Signup() {
             Login
           </Link>
         </p>
-      </form>
+      </form>.....
     </div>
   );
 }
