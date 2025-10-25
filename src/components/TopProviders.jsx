@@ -9,7 +9,7 @@ export default function TopProviders() {
     <section className="max-w-6xl mx-auto px-4 py-10">
       <h2 className="text-2xl font-bold mb-6 text-yellow-600 text-center">
         Top Rated Providers
-      </h2>......
+      </h2>
       <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6">
         {providers.map((p, i) => (
           <div
