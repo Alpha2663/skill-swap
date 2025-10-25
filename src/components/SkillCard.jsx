@@ -5,7 +5,7 @@ export default function SkillCard({ skill }) {
 
   return (
     <div className="bg-white shadow-md rounded-xl overflow-hidden hover:shadow-lg transition">
-      <img src={image} alt={skillName} className="h-48 w-full object-cover" />..........
+      <img src={image} alt={skillName} className="h-48 w-full object-cover" />
       <div className="p-4">
         <h3 className="text-lg font-bold">{skillName}</h3>
         <div className="flex justify-between text-sm text-gray-600 mt-2">
