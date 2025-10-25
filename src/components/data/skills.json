@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://i.postimg.cc/KcRcsxW8/guitar.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "../../../public/english.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Yoga for Beginners",
+    "providerName": "Anita Das",
+    "providerEmail": "anita@skillswap.com",
+    "price": 15,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Relaxing and guided yoga sessions suitable for all ages.",
+    "image": "../../../public/yoga.jpg",
+    "category": "Health"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Web Development Basics",
+    "providerName": "Rahul Dev",
+    "providerEmail": "rahul@skillswap.com",
+    "price": 25,
+    "rating": 4.7,
+    "slotsAvailable": 2,
+    "description": "Learn HTML, CSS, and JavaScript step-by-step.",
+    "image": "https://i.postimg.cc/wjB6FZqG/webdev.jpg",
+    "category": "Technology"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Photography Essentials",
+    "providerName": "Nadia Rahman",
+    "providerEmail": "nadia@skillswap.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 1,
+    "description": "Learn lighting, composition, and editing like a pro.",
+    "image": "https://i.postimg.cc/zXdf9mV8/photo.jpg",
+    "category": "Creative"
+  },
+  {
+    "skillId": 6,
+    "skillName": "Cooking Bangladeshi Dishes",
+    "providerName": "Tanvir Hasan",
+    "providerEmail": "tanvir@skillswap.com",
+    "price": 12,
+    "rating": 4.5,
+    "slotsAvailable": 6,
+    "description": "Cook authentic Bangladeshi meals easily at home.",
+    "image": "https://i.postimg.cc/vB8RynWZ/cooking.jpg",
+    "category": "Food"
+  }
+]
