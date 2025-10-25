@@ -93,7 +93,7 @@ export default function UpdateProfile() {
         >
           Update
         </button>
-      </form>....
+      </form>
     </div>
   );
 }
