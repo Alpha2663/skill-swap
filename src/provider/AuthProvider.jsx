@@ -31,8 +31,8 @@ const AuthProvider = ({ children }) => {
     if (!auth.currentUser) throw new Error("No user logged in");
 
     await updateProfile(auth.currentUser, {
-      displayName: name,
-      photoURL: photoURL,
+      displayName: name
+      photoURL: photoURL
     });
 
     setUser({ ...auth.currentUser });
