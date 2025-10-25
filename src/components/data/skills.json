@@ -20,7 +20,7 @@
     "rating": 4.6,
     "slotsAvailable": 5,
     "description": "Conversational English sessions for non-native speakers.",
-    "image": "../../../public/english.jpg",
+    "image": "/english.jpg",
     "category": "Language"
   },
   {
@@ -32,7 +32,7 @@
     "rating": 4.9,
     "slotsAvailable": 4,
     "description": "Relaxing and guided yoga sessions suitable for all ages.",
-    "image": "../../../public/yoga.jpg",
+    "image": "/yoga.jpg",
     "category": "Health"
   },
   {

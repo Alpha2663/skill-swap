@@ -6,16 +6,16 @@ import "swiper/css/pagination";
 export default function HeroSlider() {
   const slides = [
     {
-      image: "../../public/main1.png",
+      image: "/main1.png",
       text: "Learn and Share Skills Locally",
       
     },
     {
-      image: "../../public/main2.png",
+      image: "/main2.png",
       text: "Grow Together with SkillSwap",
     },
     {
-      image: "../../public/Digital-Skill-Swap-1200x630.png",
+      image: "/Digital-Skill-Swap-1200x630.png",
       text: "Connect, Teach, and Learn Effortlessly",
     },
   ];

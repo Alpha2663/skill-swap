@@ -19,7 +19,7 @@ export default function SkillCategories() {
       rating: 4.8,
       slotsAvailable: 3,
       description: "Acoustic guitar classes for complete beginners.",
-      image: "../../public/guitar-class.jpg",
+      image: "/guitar-class.jpg",
       category: "Music",
     },
     {
@@ -31,7 +31,7 @@ export default function SkillCategories() {
       rating: 4.6,
       slotsAvailable: 5,
       description: "Conversational English sessions for non-natives.",
-      image: "../../public/english.jpg",
+      image: "/english.jpg",
       category: "Language",
     },
     {
@@ -44,7 +44,7 @@ export default function SkillCategories() {
       slotsAvailable: 4,
       description:
         "Relaxing and guided yoga sessions suitable for all ages.",
-      image: "../../public/yoga.jpg",
+      image: "/yoga.jpg",
       category: "Health",
     },
     {
@@ -56,7 +56,7 @@ export default function SkillCategories() {
       rating: 4.7,
       slotsAvailable: 2,
       description: "Learn HTML, CSS, and JavaScript step-by-step.",
-      image: "../../public/wd.avif",
+      image: "/wd.avif",
       category: "Technology",
     },
     {
@@ -68,7 +68,7 @@ export default function SkillCategories() {
       rating: 4.8,
       slotsAvailable: 1,
       description: "Learn lighting, composition, and editing like a pro.",
-      image: "../../public/pg.jpg",
+      image: "/pg.jpg",
       category: "Creative",
     },
     {
@@ -80,7 +80,7 @@ export default function SkillCategories() {
       rating: 4.5,
       slotsAvailable: 6,
       description: "Cook authentic Bangladeshi meals easily at home.",
-      image: "../../public/cooking.jpg",
+      image: "/cooking.jpg",
       category: "Food",
     },
   ];
